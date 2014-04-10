@@ -6,6 +6,6 @@ it all up here for reference
 
 ### Sections
 
-1. [Encrypting email](email.md)
+1. [Introduction, encrypting emails](email.md)
 
 2. [Encrypting files](files.md)
