@@ -31,7 +31,7 @@ Edward Snowden uses this message to talk to journalists. It works.
 
 1. Goto https://gpgtools.org/
 2. Download GPG suite
-3. Open terminal and type gpg --recv-keys 0x415AF4A3 to get my public key
+3. Open terminal and type `gpg --recv-keys 0x415AF4A3` to get my public key
 4. You can now send encrypted email to me in Mail.app. Awesome.
 5. If you don't use mail.app you are doing it wrong.
 6. Open GPG keychain access and click new to generate a new key for yourself. Make sure to click upload key so it's easy to gpg --recv-keys your short id.
