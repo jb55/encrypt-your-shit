@@ -4,7 +4,7 @@ Putting stuff on Dropbox is about the same as mailing your harddrive directly to
 
 This is a follow up to my previous email about encrypting your emails. The programs I described in my previous email can also be used to easily encrypt and decrypt files when emailing or sharing on dropbox. It's pretty straightforward:
 
-Once [gpgtools](https://gpgtools.org) is installed (see email.md to see how to get up and running), you can encrypt a file right from the Services menu:
+Once [gpgtools](https://gpgtools.org) is installed (see [Encrypting email](email.md) to see how to get up and running), you can encrypt a file right from the Services menu:
 
 <img src="https://i.cloudup.com/tV2TNzGIEI-2000x2000.png" width="50%" height="50%"/>
 
