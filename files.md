@@ -12,7 +12,7 @@ Click "encrypt file" and then you will be presented with a list of people you ca
 
 <img src="https://i.cloudup.com/tqAVMShNfR-2000x2000.png" width="50%" height="50%"/>
 
-If you have noone in this list you have to get their PGP key. You can get mine by typing "gpg --recv-keys 0x6d3e2004415af4a3" on the command line or by opening "GPG Keychain Access" and opening "Retrieve from Keyserver" or "Search for key". You will be able to find me and Ari as we're both on distributed keyservers.
+If you have noone in this list you have to get their PGP key. You can get mine by typing `gpg --recv-keys 0x6d3e2004415af4a3` on the command line or by opening "GPG Keychain Access" and opening "Retrieve from Keyserver" or "Search for key". You will be able to find me and Ari as we're both on distributed keyservers.
 
 <img src="https://i.cloudup.com/JHALiePhxd-1200x1200.png" width="50%" height="50%"/>
 
