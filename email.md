@@ -50,3 +50,5 @@ A: Yes
 
 
 You're welcome
+
+Next: [Encrypting files](files.md)
